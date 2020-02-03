@@ -1,11 +1,9 @@
-# Sinatra1
+THE HACKING PROJECT WEEK 5
 
-#THE HACKING PROJECT WEEK 5
+A gossip network app with Sinatra
 
-#A gossip network app with Sinatra
+You can create and see gossips
 
-#You can create and see gossips
+Enjoy !
 
-#Enjoy !
-
-#(I did not finish the edit part
+(I did not finish the edit part)
